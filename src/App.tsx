@@ -32,7 +32,7 @@ function App() {
             className="liquid-glass rounded-full px-6 py-2.5 text-sm text-foreground hover:scale-[1.03] focus-visible:ring-0"
             style={{ background: 'rgba(255,255,255,0.01)' }}
           >
-            Begin Journey
+            注册
           </Button>
         </nav>
 
