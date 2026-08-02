@@ -41,8 +41,8 @@ function App() {
         {/*上方代码说明:justify-center（不再强制垂直居中）;py-20 md:py-28（上下对称内边距）*/}
           <section className="relative z-10 flex flex-1 flex-col items-center px-6 text-center pt-20 md:pt-28">
           <h1 className="font-display max-w-7xl text-5xl font-normal leading-[0.95] tracking-[-2.46px] sm:text-7xl md:text-8xl animate-fade-rise">
-            生命{' '}
-            <em className="not-italic text-muted-foreground">是</em>{' '}
+            生命
+            <em className="not-italic text-muted-foreground">是</em>
             <em className="not-italic text-muted-foreground">一万次</em>
             「春和景明」
           </h1>
