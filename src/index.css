@@ -15,8 +15,10 @@
     --border: 0 0% 18%;
     --input: 0 0% 18%;
 
-    --font-display: 'Instrument Serif', serif;
-    --font-body: 'Inter', sans-serif;
+    /* 大标题专属字体（生命是一万次「春和景明」&左上角站名） */
+    --font-display: /*'Instrument Serif',*/ 'Liu Jian Mao Cao', serif;
+    /* 全局默认字体（导航栏、按钮、正文描述） */
+    --font-body: /*'Inter',*/ 'Ma Shan Zheng', sans-serif;
     --radius: 0.5rem;
   }
   * {
